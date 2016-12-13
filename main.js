@@ -16,3 +16,13 @@ var x = 5;
 This ends off what you typed so you can do the rest of the code! */
 
 /* Now lets use that var in the "if" command! */
+
+if (x > 6) {
+  console.log("Yay! The mysterious X beats all!");
+}
+
+/* Woa, okay! That was confusing! To say that in english, it pretty much means "if the variable 'x' is greater than 6, write 
+'Yay! The mysterious X beats all!". You have to put everything between brackets so that it only counts what's inside the brackets,
+instead of the whole code!
+What's console.log? Well, that basically logs what's inside the parenthesis (known as the "argument") to the console. If it's
+inside of quotation marks (known as a "string"), that is writing that it will project on the screen!
