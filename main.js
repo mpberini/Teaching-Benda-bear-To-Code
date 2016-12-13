@@ -25,4 +25,10 @@ if (x > 6) {
 'Yay! The mysterious X beats all!". You have to put everything between brackets so that it only counts what's inside the brackets,
 instead of the whole code!
 What's console.log? Well, that basically logs what's inside the parenthesis (known as the "argument") to the console. If it's
-inside of quotation marks (known as a "string"), that is writing that it will project on the screen!
+inside of quotation marks (known as a "string"), that is writing that it will project on the screen! */
+/* But what if x is not greater than 6? We said before that x is 5, so x is less than 6! Well, now we must do an else command!
+It's the same kind of code, except you don't have to do an argument next to "else". */
+
+else {
+  console.log("Oh no! The mysterious X has been defeated! :(");
+}
