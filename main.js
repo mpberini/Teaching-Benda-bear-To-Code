@@ -32,3 +32,12 @@ It's the same kind of code, except you don't have to do an argument next to "els
 else {
   console.log("Oh no! The mysterious X has been defeated! :(");
 }
+
+
+/* Things to Memorize!:
+'use strict': The start to your coding.
+comments: Remember the / and * at the start and * and / at the end!
+var: Variables that make your coding easier, so you can reference things throughout your code!
+semicolon(;): The thing that ends off all your lines of code.
+brackets {}: The things that hold your code in loops and functions. Like little hugs for your code!
+*/
